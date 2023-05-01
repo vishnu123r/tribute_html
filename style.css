@@ -1,0 +1,35 @@
+*{
+    background-color: antiquewhite;
+}
+
+ul>li>span {
+    font-weight: 1000;
+}
+
+ul>li {
+  padding:5px 5px 5px 0;
+}
+
+header, h2{
+    text-align: center;
+}
+
+figure{
+    margin:0;
+    text-align: center;
+    background-color: white;
+}
+
+.history{
+    display: flex;
+    justify-content: center;
+    padding: 0px 600px;
+}
+
+.italic{
+    font-style:italic;
+}
+
+.center{
+    text-align: center;
+}
